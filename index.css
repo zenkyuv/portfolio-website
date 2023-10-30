@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Plus Jakarta Sans;
+}
+
+body {
+	background: #1c1c1c;
+}
