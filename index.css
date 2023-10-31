@@ -4,6 +4,10 @@
 	font-family: Plus Jakarta Sans;
 }
 
+html, body, .panels {
+	height: 100%;
+}
+
 body {
 	background: #1c1c1c;
 }

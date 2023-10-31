@@ -29,8 +29,10 @@
   "dependencies": {
     "@benev/slate": "^0.0.0-dev.15",
     "@rollup/plugin-node-resolve": "^15.1.0",
+    "coi-serviceworker": "^0.1.7",
     "es-module-shims": "^1.7.0",
     "lit": "^2.6.1",
-    "rollup": "^3.24.0"
+    "rollup": "^3.24.0",
+    "vim-wasm": "^0.0.13"
   }
 }

@@ -1,6 +1,9 @@
 import {register_to_dom} from "@benev/slate"
-import {BrowserElement} from "./elements/browser/element.js"
+import {EditorElement} from "./elements/editor/element.js"
+import {ExplorerElement} from "./elements/explorer/element.js"
 
 register_to_dom({
-	BrowserElement
+	EditorElement,
+	ExplorerElement
 })
+
