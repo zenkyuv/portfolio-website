@@ -11,3 +11,7 @@ html, body, .panels {
 body {
 	background: #1c1c1c;
 }
+
+.panels {
+	display: flex;
+}
